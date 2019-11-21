@@ -12,6 +12,6 @@ public class wordcount {
 	static int met(String text){
 		String[] textArr = text.split("[ ]");
 		return textArr.length;
-		
+		    ///
 	}
 }
